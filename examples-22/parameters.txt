@@ -1,0 +1,7 @@
+[CONSTANT INPUT]
+Full Symbol	Value	Default scenario
+Sumo__Plant__CSTR2__param__L_Vtrain	3000
+Sumo__Plant__CSTR2__param__Qair_NTP	0
+Sumo__Plant__CSTR3__param__L_Vtrain	7000
+Sumo__Plant__Sideflowdivider__param__Qpumped_target	72000
+[DYNAMIC INPUT]

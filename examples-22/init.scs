@@ -1,0 +1,4 @@
+set Sumo__Plant__CSTR2__param__L_Vtrain 3000;
+set Sumo__Plant__CSTR2__param__Qair_NTP 0;
+set Sumo__Plant__CSTR3__param__L_Vtrain 7000;
+set Sumo__Plant__Sideflowdivider__param__Qpumped_target 72000;
