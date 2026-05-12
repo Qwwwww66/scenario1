@@ -1,0 +1,14 @@
+[CONSTANT INPUT]
+Full Symbol	Value
+Sumo__Plant__param__SRT1_control	1
+Sumo__Plant__Influent__param__Q	17280
+Sumo__Plant__Influent__param__TCOD	300
+Sumo__Plant__CSTR__param__L_Vtrain	750
+Sumo__Plant__CSTR__param__Qair_NTP	0
+Sumo__Plant__CSTR2__param__L_Vtrain	1500
+Sumo__Plant__CSTR2__param__Qair_NTP	0
+Sumo__Plant__CSTR3__param__L_Vtrain	3000
+Sumo__Plant__Sideflowdivider__param__Qpumped_target	51840
+Sumo__Plant__CSTR4__param__L_Vtrain	1500
+Sumo__Plant__CSTR4__param__Qair_NTP	0
+[DYNAMIC INPUT]
